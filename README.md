@@ -12,9 +12,13 @@ Final-year B.Tech CSE-AI&DS student and Full-Stack Developer skilled in Java, Ja
 ## 🛠 Tech Stack
 
 **Languages:** Java, JavaScript, Python, SQL
+
 **Frontend:** React.js, HTML, CSS, Tailwind CSS
+
 **Backend:** Node.js, Express.js, REST APIs
+
 **Database:** MongoDB, PostgreSQL, MySQL
+
 **Tools:** Git, GitHub, Postman, Vercel, Render
 
 ## 📌 Featured Projects
