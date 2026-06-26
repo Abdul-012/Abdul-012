@@ -31,10 +31,6 @@ A full-stack MERN expense tracker with JWT authentication, protected routes, exp
 
 A full-stack hotel booking platform with authentication, property listings, Cloudinary image uploads, reviews, ratings, and interactive maps.
 
-### Roxiler System Assignment
-
-A full-stack role-based store rating system built with React, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, and JWT authentication.
-
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/abdul-rahman-2382b8294/
