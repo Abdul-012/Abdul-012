@@ -1,13 +1,13 @@
 # Hi, I'm Abdul Rahman 👋
 
-Final-year B.Tech CSE-AI&DS student and Full-Stack Developer skilled in Java, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, and REST APIs.
+B.Tech CSE-AI&DS 2026 graduate and Full-Stack Developer skilled in Java, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, and REST APIs.
 
 ## 🚀 About Me
 
-* 🎓 Final-year B.Tech CSE-AI&DS student
+* 🎓 B.Tech CSE-AI&DS 2026 graduate
 * 💻 Interested in Full-Stack Development, Backend Engineering, and AI/ML
-* 🧠 Practicing DSA and building production-level projects
-* 🔍 Open to SDE, Full-Stack Developer, and Backend Developer opportunities
+* 🧠 Practicing DSA and building production-level full-stack projects
+* 🔍 Open to SDE, Full-Stack Developer, Backend Developer, and Software Engineer opportunities
 
 ## 🛠 Tech Stack
 
@@ -17,7 +17,7 @@ Final-year B.Tech CSE-AI&DS student and Full-Stack Developer skilled in Java, Ja
 
 **Backend:** Node.js, Express.js, REST APIs
 
-**Database:** MongoDB, PostgreSQL, MySQL
+**Databases:** MongoDB, PostgreSQL, MySQL
 
 **Tools:** Git, GitHub, Postman, Vercel, Render
 
@@ -25,7 +25,7 @@ Final-year B.Tech CSE-AI&DS student and Full-Stack Developer skilled in Java, Ja
 
 ### Expense Tracker
 
-A full-stack MERN expense tracker with JWT authentication, protected routes, expense CRUD, filters, pagination, analytics dashboard, budget tracking, and CSV export.
+A full-stack MERN expense tracker with JWT authentication, protected routes, expense CRUD operations, filters, pagination, analytics dashboard, budget tracking, and CSV export.
 
 ### StayFinder
 
@@ -33,7 +33,7 @@ A full-stack hotel booking platform with authentication, property listings, Clou
 
 ### Roxiler System Assignment
 
-A full-stack role-based store rating system using React, TypeScript, Node.js, Express, PostgreSQL, Prisma, and JWT authentication.
+A full-stack role-based store rating system built with React, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, and JWT authentication.
 
 ## 📫 Connect With Me
 
